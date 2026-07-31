@@ -40,7 +40,7 @@ Framework pillars:
 
 | ID | Pattern | Status | Primary concerns |
 |---|---|---|---|
-| AZ-EAP-001 | [Secure Azure Hub-Spoke Connectivity](patterns/hub-spoke-secure-connectivity/) | In development | Networking, security and operations |
+| AZ-EAP-001 | [Secure Azure Hub-Spoke Connectivity](patterns/hub-spoke-secure-connectivity/) | Draft | Networking, security, DNS, and operations |
 
 ## 🔍 Standard Pattern Contents
 
@@ -81,10 +81,10 @@ See [SECURITY.md](SECURITY.md) and [DISCLAIMER.md](DISCLAIMER.md).
 
 ### Version 0.1.0
 
-- Establish repository standards and templates
-- Define the AZ-EAP-001 scenario and requirements
-- Publish initial architecture decision records
-- Add context and logical architecture diagrams
+- [x] Establish repository standards and templates
+- [ ] Define the AZ-EAP-001 scenario and requirements
+- [ ] Publish initial architecture decision records
+- [ ] Add context and logical architecture diagrams
 
 ### Future development
 
