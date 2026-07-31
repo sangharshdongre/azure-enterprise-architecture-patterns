@@ -63,6 +63,7 @@ This pattern should be reassessed when:
 | Requirements and priorities | [requirements.md](requirements.md) |
 | Assumptions, constraints, and non-goals | [assumptions-and-constraints.md](assumptions-and-constraints.md) |
 | Acceptance criteria | [acceptance-criteria.md](acceptance-criteria.md) |
+| Architecture decisions | [decisions.md](decisions.md) |
 
 ## 🧭 Intended Architecture Scope
 
